@@ -1,4 +1,4 @@
-# Timber-Transfer & Pitch Shifting
+# Timbre-Transfer & Pitch Shifting
 
 PickupI.pdf covers the design of a simple pick up. 
 
